@@ -1,0 +1,92 @@
+[
+    {
+        "id": "6343accbf5b409482488b28b",
+        "index": 0,
+        "img": "https://img.freepik.com/free-photo/pink-headphones-wireless-digital-device_53876-96804.jpg?w=740&t=st=1665379005~exp=1665379605~hmac=6057457d20209c6ad5abe294551c7a78772bfb4de742a0a2a162e3ea17e81838",
+        "price": 303,
+        "name": "Headphone-8D",
+        "quantity": 0,
+        "category": "Gadgets"
+    },
+    {
+        "id": "6343accb54d393abe7d81040",
+        "index": 1,
+        "img": "https://img.freepik.com/free-photo/top-view-tablet-ceramic-pot_23-2149672651.jpg?w=740&t=st=1665379740~exp=1665380340~hmac=01ab55fbb6f368a921f2c0af1f3f8f34579768c89484076d15f66669256e8694",
+        "price": 301,
+        "name": "Tablet",
+        "quantity": 0,
+        "category": "Gadgets"
+    },
+    {
+        "id": "6343accbe5f5da966f473480",
+        "index": 2,
+        "img": "https://img.freepik.com/premium-psd/tablet-pro-screen-mockup_450575-108.jpg?w=740",
+        "price": 257,
+        "name": "Laptop",
+        "quantity": 0,
+        "category": "Gadgets"
+    },
+    {
+        "id": "6343accbfcff3731958ce9b1",
+        "index": 3,
+        "img": "https://img.freepik.com/free-psd/presentation-back-front-smartwatches-with-screen-mock-up_23-2148787550.jpg?w=826&t=st=1665379873~exp=1665380473~hmac=449b7f33dbbfa9e6ffaefa4619f1ec693652d7c44962c868880b39c5fad3d3ed",
+        "price": 146,
+        "name": "Smart-Watch",
+        "quantity": 0,
+        "category": "Gadgets"
+    },
+    {
+        "id": "6343accb57d61fc4af307596",
+        "index": 4,
+        "img": "https://img.freepik.com/premium-psd/black-smartphone-mockup-your-design_34168-2405.jpg?w=740",
+        "price": 176,
+        "name": "Smart-phone",
+        "quantity": 0,
+        "category": "Gadgets"
+    },
+    {
+        "id": "6343accb2d5aaa01ec4e5d61",
+        "index": 5,
+        "img": "https://img.freepik.com/free-photo/high-angle-wi-fi-router-with-vacuum-cleaner_23-2148779238.jpg?w=740&t=st=1665380099~exp=1665380699~hmac=ea3fd6b240c330333d3e688d42337921c4e3d721582ac7fcab8aec859ed6b3d6",
+        "price": 248,
+        "name": "Smart-Router",
+        "quantity": 0,
+        "category": "Gadgets"
+    },
+    {
+        "id": "6343accb60c6352e87d3385d",
+        "index": 6,
+        "img": "https://img.freepik.com/free-photo/top-view-still-life-printer-composition_23-2149120739.jpg?w=740&t=st=1665380156~exp=1665380756~hmac=ec0f845d951ce78740a377a8ca2ec4833c5d1c4a34165f92bf994ff8c5fc1f32",
+        "price": 217,
+        "name": "Digital-Printer",
+        "quantity": 0,
+        "category": "Gadgets"
+    },
+    {
+        "id": "6343accb05c45cca574779ba",
+        "index": 7,
+        "img": "https://img.freepik.com/premium-photo/gamer-workspace_127657-18683.jpg?w=740",
+        "price": 299,
+        "name": "Gaming Accessories",
+        "quantity": 0,
+        "category": "Gadgets"
+    },
+    {
+        "id": "6343accba8f36c4e43701d59",
+        "index": 8,
+        "img": "https://img.freepik.com/free-photo/smart-speaker-house-control-innovative-technology_53876-102350.jpg?w=740&t=st=1665380272~exp=1665380872~hmac=5c371a71d018fb10977594767f8979dd54b461f477bee6ca77de27225340b521",
+        "price": 268,
+        "name": "Smart-speaker",
+        "quantity": 0,
+        "category": "Gadgets"
+    },
+    {
+        "id": "6343accb82f83cae93efe3bf",
+        "index": 9,
+        "img": "https://img.freepik.com/free-photo/man-with-glasses-virtual-reality_155003-13511.jpg?w=740&t=st=1665380558~exp=1665381158~hmac=dbd1d74af0ca8379fe60d98f9eb2246251f64ecbab285129a02fed8bf2f75225",
+        "price": 267,
+        "name": "VR-viewer",
+        "quantity": 0,
+        "category": "Gadgets"
+    }
+]
