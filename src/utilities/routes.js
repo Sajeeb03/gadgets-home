@@ -4,11 +4,14 @@ import Home from "../components/Home";
 import Root from "../components/Root";
 import Shop from "../components/Shop";
 import About from "../components/About";
+import ErrorPage from "../components/ErrorPage";
 
 const router = createBrowserRouter([
     {
         path: '/',
         element: <Root />,
+        errorElement: <ErrorPage />,
+        loader: () => fetch('products.json'),
         children: [
             {
                 path: '/',

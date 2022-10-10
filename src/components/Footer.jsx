@@ -3,7 +3,7 @@ import { Link } from 'react-router-dom';
 
 const Footer = () => {
     return (
-        <div className='mt-2'>
+        <div className=''>
             <footer className="py-6 dark:bg-gray-800 dark:text-gray-50">
                 <div className="container px-6 mx-auto space-y-6 divide-y divide-gray-400 md:space-y-12 divide-opacity-50">
                     <div className="grid grid-cols-12">
@@ -24,7 +24,7 @@ const Footer = () => {
                                     <Link rel="noopener noreferrer" to='/' className="hover:dark:text-violet-400">Link</Link>
                                 </li>
                                 <li>
-                                    <a rel="noopener noreferrer" to='/' className="hover:dark:text-violet-400">Link</a>
+                                    <Link rel="noopener noreferrer" to='/' className="hover:dark:text-violet-400">Link</Link>
                                 </li>
                                 <li>
                                     <Link rel="noopener noreferrer" to='/' className="hover:dark:text-violet-400">Link</Link>

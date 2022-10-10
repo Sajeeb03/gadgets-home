@@ -12,7 +12,7 @@ const Home = () => {
                     <Link to='/shop'>
                         <button className='rounded-full bg-cyan-600 px-8 py-3 text-lg font-semibold hover:bg-cyan-900'>Shop Now</button>
                     </Link>
-                    <Link to='about'>
+                    <Link to='/about'>
                         <button className='rounded-full border-2 border-cyan-600 px-8 py-2 text-lg font-semibold'>Learn More</button>
                     </Link>
                 </div>
